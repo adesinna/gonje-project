@@ -1,1 +1,1 @@
-# gonje-project
+# gonje-project aws pipeline course
